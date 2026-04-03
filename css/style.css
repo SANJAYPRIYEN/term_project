@@ -1,0 +1,12 @@
+body {
+    background-color: #747474;
+}
+
+.card img {
+    height: 220px;
+    object-fit: cover;
+}
+
+h1, h2 {
+    margin-bottom: 20px;
+}
